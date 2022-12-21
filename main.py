@@ -1,7 +1,6 @@
 import random
 
 n = random.randint(1,100)
-print(n)
 g = int(input("Enter your Guess: "))
 nog = 1
 
